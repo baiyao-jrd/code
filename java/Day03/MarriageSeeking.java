@@ -1,6 +1,4 @@
-package Day03;
-
-import com.sun.org.apache.xpath.internal.operations.Bool;
+package day03;
 
 import java.util.Scanner;
 
